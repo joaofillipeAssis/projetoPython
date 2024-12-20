@@ -1,10 +1,3 @@
-#GIT
-
-Verificar conexão com github
-
-ssh -vT git@github.com
-
-
 # Projeto ETL com Python
 
 Projeto de ETL (Extração, Transformação e Carga) utilizando Python e a biblioteca `requests`.
